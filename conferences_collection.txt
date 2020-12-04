@@ -1,0 +1,28 @@
+Вся дичь на гугл драйве. Но ссылки важны.
+
+1. MAKING TRANSLATOR DECISIONS DURING PROCESSING 
+OF THE TECHNICAL DOCUMENTATION IN SCIENTIFIC 
+COMMUNICATION THEORY CONTEXT  
+
+Conference: A PERSON AS A SUBJECT OF INTERCULTURAL COMMUNICATION: 
+MODERN TENDENCIES IN PHILOLOGY, TRANSLATION AND TEACHING OF FOREIGN LANGUAGES
+
+source: https://ktppam.kpi.ua/sites/default/files/ludyna_2020.pdf
+
+
+2. DOCKER AND CONTAINERIZATION IN SOFTWARE RUNNING
+ AND DELIVERING CONTEXT
+
+Conference: SCIENCE AND TECHNOLOGY OF THE XXI CENTURY
+
+Links: 
+http://studconf.fl.kpi.ua/2020
+http://studconf.fl.kpi.ua/2020/author/submission/22190
+http://kamts2.kpi.ua/node/939
+
+
+3. WHAT IS KUBERNETES AND HOW IT SOLVES PROBLEMS OF DEPLOYMENT
+
+Conference: Ukrainian and Foreign Science: Yesterday, Today, Tomorrow
+
+https://drive.google.com/file/d/1jAkFnTagEYDvU9j9R2rLA_E6fSDuUrLN/view?usp=sharing
